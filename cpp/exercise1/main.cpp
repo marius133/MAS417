@@ -2,11 +2,12 @@
 void problem4();
 void problem5();
 void problem6();
+void problem7();
 
 int main()
 {
 
-problem6();
+problem7();
 return 0;
 
 }

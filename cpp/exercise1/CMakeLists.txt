@@ -8,5 +8,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 add_executable(exercise1 main.cpp
 problem4.cpp
 problem5.cpp
-problem6.cpp)
+problem6.cpp
+problem7.cpp)
 
